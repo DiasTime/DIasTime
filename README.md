@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI im DIas - Backend dev<br>Studying in AIU university<br>Working on a education related web site<br> 
+HI im DIas - Front-end dev<br>Working on a dishes e-shop<br> 
 
 
 ## 🌐 Socials:
