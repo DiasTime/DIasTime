@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI im DIas - Front-end devp<br> 
+HI im DIas - Front-end dev<br> 
 
 
 ## 🌐 Socials:
