@@ -1,5 +1,7 @@
 # 💫 About Me:
-HI im DIas - Front-end dev<br> 
+Hello there!
+My name is Dias iam a fullstack developer
+Building websites that does work<br> 
 
 
 ## 🌐 Socials:
