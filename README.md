@@ -36,24 +36,18 @@ Fullstack developer working across web,right now working on a corparate platform
 
 ## Stats
 
-![](./profile/stats.svg)
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DiasTime&show_icons=true&theme=material-palenight&hide_border=false&count_private=true" alt="DiasTime's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTime&layout=compact&theme=material-palenight&hide_border=false" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="DiasTime's GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiasTime&theme=material-palenight&hide_border=false" alt="DiasTime's streak stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiasTime&theme=react-dark&hide_border=false" alt="Contribution activity graph" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiasTime&theme=algolia&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-![](./profile/top-langs.svg)
-![](./profile/trophy.svg)
 
 <!--START_SECTION:waka-->
 <!-- This section fills in automatically if you run a WakaTime README-stats action. -->
